@@ -1,0 +1,23 @@
+body {
+    font-family: "Audiowide", sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-top: 20px;
+}
+
+p {
+    color: #666;
+}
+
+.grades {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.grades b {
+    color: #4CAF50;
+}
